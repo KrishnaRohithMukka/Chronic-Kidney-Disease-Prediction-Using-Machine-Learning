@@ -1,6 +1,6 @@
 # Chronic-Kidney-Disease-Prediction-Using-Machine-Learning
 
-* **Abstract:**Due to its lack of symptoms, chronic kidney disease (CKD), a serious worldwide health issue with high rates of morbidity and mortality, is frequently overlooked in its early stages. Machine learning models provide quick and precise diagnostic help, and early detection is crucial to slowing the progression of disease. We used KNN imputation, a technique that mimics actual medical situations, to handle missing values in the CKD dataset from the UCI Machine Learning Repository.
+* **Abstract:** Due to its lack of symptoms, chronic kidney disease (CKD), a serious worldwide health issue with high rates of morbidity and mortality, is frequently overlooked in its early stages. Machine learning models provide quick and precise diagnostic help, and early detection is crucial to slowing the progression of disease. We used KNN imputation, a technique that mimics actual medical situations, to handle missing values in the CKD dataset from the UCI Machine Learning Repository.
 
 Diagnostic models were constructed using six machine learning algorithms: feedforward neural network, k-nearest neighbor, random forest, support vector machine, logistic regression, and naive Bayes. The best accuracy of 99.75% was attained by random forest.
 
